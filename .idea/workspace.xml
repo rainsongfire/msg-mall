@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50ae4c9a-b37c-485f-9d48-b4542759e4fa" name="Default Changelist" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-member/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-member/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-member/src/main/java/com/msb/mall/member/MallMemberApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-member/src/main/java/com/msb/mall/member/demos/web/BasicController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-member/src/main/java/com/msb/mall/member/demos/web/PathVariableController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-member/src/main/java/com/msb/mall/member/demos/web/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-member/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-member/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-member/src/test/java/com/msb/mall/member/MallMemberApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-order/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-order/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-order/src/main/java/com/example/order/MallOrderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-order/src/main/java/com/example/order/demos/web/BasicController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-order/src/main/java/com/example/order/demos/web/PathVariableController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-order/src/main/java/com/example/order/demos/web/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-order/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-order/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-order/src/test/java/com/example/order/MallOrderApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-product/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-product/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-product/src/main/java/com/msb/mall/product/MallProductApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-product/src/main/java/com/msb/mall/product/demos/web/BasicController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-product/src/main/java/com/msb/mall/product/demos/web/PathVariableController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-product/src/main/java/com/msb/mall/product/demos/web/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-product/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-product/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-product/src/test/java/com/msb/mall/product/MallProductApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-ware/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-ware/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-ware/src/main/java/com/msb/mall/ware/MallWareApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-ware/src/main/java/com/msb/mall/ware/demos/web/BasicController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-ware/src/main/java/com/msb/mall/ware/demos/web/PathVariableController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-ware/src/main/java/com/msb/mall/ware/demos/web/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-ware/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-ware/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-ware/src/test/java/com/msb/mall/ware/MallWareApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2UksG7naD7KuXBLgSdOH4Vn7iGC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "/Users/derui/Desktop/msbmall/msg-mall",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RenrenApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="renren-fast" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.renren.RenrenApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.renren.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.RenrenApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50ae4c9a-b37c-485f-9d48-b4542759e4fa" name="Default Changelist" comment="" />
+      <created>1693494813632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693494813632</updated>
+      <workItem from="1693494826949" duration="205000" />
+      <workItem from="1693495333146" duration="6707000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1693499261837</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693499261838</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="8119e502-4c39-48fd-9524-96ccd2b3804e" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="8119e502-4c39-48fd-9524-96ccd2b3804e">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+</project>
